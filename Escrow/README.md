@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Escrow DApp
 
 ## Technology Stack & Tools
 
