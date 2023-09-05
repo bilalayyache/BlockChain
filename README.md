@@ -1,1 +1,1 @@
-![alt text]([https://github.com/bilalayyache/BlockChain/blob/main/AI-NFT-%20Toplevel.jpg) 
+![Alt text]([relative%20path/to/img.jpg](https://github.com/bilalayyache/BlockChain/blob/main/AI-NFT-%20Toplevel.jpg)https://github.com/bilalayyache/BlockChain/blob/main/AI-NFT-%20Toplevel.jpg?raw=true "Title")
