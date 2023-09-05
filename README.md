@@ -1,1 +1,1 @@
-![Alt text](AI-NFT- Toplevel.jpg)
+![Alt text](/AI-NFT- Toplevel.jpg)
