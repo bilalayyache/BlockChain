@@ -1,4 +1,4 @@
-# Escrow DApp
+# Escrow Project
 
 ## Technology Stack & Tools
 
